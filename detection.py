@@ -6,7 +6,7 @@ from src.process import *
 from src.utili import draw_boxes
 from src.utili import encoder_dic
 from src.nmsupress import do_nms
-
+#detection
 class Detector():
     def __init__(self,
                  model_path='./model/yolov3.h5'):
