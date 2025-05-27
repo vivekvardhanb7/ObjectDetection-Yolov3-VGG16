@@ -21,7 +21,4 @@ python detection.py
 ## Details
 For details of this project please check [notebook](https://github.com/patrick013/Object-Detection---Yolov3/blob/master/Object_Detection_Yolo.ipynb)
 
-## Reference
-> - Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). You only look once: Unified, real-time object detection. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 779-788).
-> - Darknet, https://github.com/pjreddie/darknet
-> - YOLO3 (Detection, Training, and Evaluation), https://github.com/experiencor/keras-yolo3
+
